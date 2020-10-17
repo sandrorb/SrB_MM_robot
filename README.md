@@ -1,5 +1,5 @@
 # SrB_MM_robot
-EA software (robot) written in MQL5 to execute my MM setup on small index Bovespa Brazil. It's is a prototype project and it is not intended to be used real accounts. It's just for demo accounts e for didactic purpose.
+EA software (robot) written in MQL5 to execute my MM setup on small index Bovespa Brazil. It's is a prototype project and it is not intended to be used in real accounts. It's just for demo accounts and for didactic purpose.
 
 Sandro Roger Boschetti assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed or implied, about its quality, reliability, or any other characteristic.
 
